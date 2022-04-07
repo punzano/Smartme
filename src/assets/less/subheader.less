@@ -1,0 +1,49 @@
+.subheader {
+	background-color: #f0f4fb;
+	padding: 0 1rem 1rem 1rem;
+	width: 100%;
+	font-size: 0.6rem;
+
+	@media screen and (min-width: 48rem) {
+		padding: 1rem;
+	}
+
+	.sector-selector {
+		margin-bottom: 1rem;
+		width: 100%;
+
+		.select {
+			width: 100%;
+			height: 2rem;
+			background-color: white;
+		}
+
+		@media screen and (min-width: 48rem) {
+			margin-bottom: 0;			
+		}
+	}
+
+	.user-actions {
+		.notifications {
+			order: 3;
+			background-color: #0759e6;
+			color: white;
+			font-size: 0.75rem;
+
+			@media screen and (min-width: 48rem) {
+				order: initial;
+			}
+		}
+
+		.download-wrapper, .share-wrapper {
+			width: initial;
+            font-weight: bold;
+		}
+	
+		.download-icon, .share-icon {
+			background-color: white;
+			border-radius: 50%;
+			padding: 0.25rem;
+		}
+	}
+}

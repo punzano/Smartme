@@ -1,0 +1,33 @@
+.header {
+	background-color: #f0f4fb;
+	padding: 1rem 1rem 0 1rem;
+	width: 100%;
+
+	.title {
+		.MuiSvgIcon-root {
+			border-radius: 50%;
+			padding: 0.25rem;
+			background-color: #ff3974;
+			color: white;
+			margin-right: 0.5rem;
+		}
+
+		&-texts {
+			span:nth-child(1) {
+				color: #ff3974;
+			}
+	
+			span:nth-child(2) {
+				font-weight: bold;
+			}
+		}
+	}
+
+	.title-description {
+		color: #c7c9cd;
+
+		@media screen and (min-width: 48rem) {
+			display: none;
+		}
+	}
+}

@@ -1,0 +1,358 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Ranking component Ranking snapshot 1`] = `
+<div
+  class="MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-direction-xs-column ranking css-1lz167y-MuiGrid-root"
+  data-testid="ranking"
+>
+  <div
+    class="MuiTableContainer-root css-rorn0c-MuiTableContainer-root"
+    data-testid="mpix-table"
+  >
+    <table
+      aria-label="customized table"
+      class="MuiTable-root css-rqglhn-MuiTable-root"
+    >
+      <thead
+        class="MuiTableHead-root table-head css-15wwp11-MuiTableHead-root"
+      >
+        <tr
+          class="MuiTableRow-root MuiTableRow-head css-1q1u3t4-MuiTableRow-root"
+        >
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium table-head-cell css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            Puesto
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium table-head-cell css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            Empresa
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium table-head-cell css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            MPIx
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium table-head-cell css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            Variación
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium table-head-cell css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            Penetración
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium table-head-cell css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            Sector
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium table-head-cell css-1ygcj2i-MuiTableCell-root"
+            scope="col"
+          >
+            Subsector
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        class="MuiTableBody-root table-body css-apqrd9-MuiTableBody-root"
+      >
+        <tr
+          class="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium table-body-cell position css-1yhpg23-MuiTableCell-root"
+          >
+            1
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell company css-1ex1afd-MuiTableCell-root"
+          >
+            YouTube
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            75.9
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell variation css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container css-1vam7s3-MuiGrid-root"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium arrow-down-icon css-i4bv87-MuiSvgIcon-root"
+                data-testid="ArrowDropDownIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="m7 10 5 5 5-5z"
+                />
+              </svg>
+              <span>
+                -2.32
+                %
+              </span>
+            </div>
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            79%
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            Social media
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            Social media videos
+          </td>
+        </tr>
+        <tr
+          class="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium table-body-cell position css-1yhpg23-MuiTableCell-root"
+          >
+            2
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell company css-1ex1afd-MuiTableCell-root"
+          >
+            Instagram
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            73.0
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell variation css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container css-1vam7s3-MuiGrid-root"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium arrow-down-icon css-i4bv87-MuiSvgIcon-root"
+                data-testid="ArrowDropDownIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="m7 10 5 5 5-5z"
+                />
+              </svg>
+              <span>
+                -4.26
+                %
+              </span>
+            </div>
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            78%
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            Social media
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            Social media
+          </td>
+        </tr>
+        <tr
+          class="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium table-body-cell position css-1yhpg23-MuiTableCell-root"
+          >
+            3
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell company css-1ex1afd-MuiTableCell-root"
+          >
+            Facebook
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            64.0
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell variation css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container css-1vam7s3-MuiGrid-root"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium arrow-down-icon css-i4bv87-MuiSvgIcon-root"
+                data-testid="ArrowDropDownIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="m7 10 5 5 5-5z"
+                />
+              </svg>
+              <span>
+                -2.18
+                %
+              </span>
+            </div>
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            78%
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            Social media
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            Social media
+          </td>
+        </tr>
+        <tr
+          class="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium table-body-cell position css-1yhpg23-MuiTableCell-root"
+          >
+            4
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell company css-1ex1afd-MuiTableCell-root"
+          >
+            TikTok: Retos, Vídeos & Música
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            55.5
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell variation css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container css-1vam7s3-MuiGrid-root"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium arrow-down-icon css-i4bv87-MuiSvgIcon-root"
+                data-testid="ArrowDropDownIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="m7 10 5 5 5-5z"
+                />
+              </svg>
+              <span>
+                -7.16
+                %
+              </span>
+            </div>
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            44%
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            Social media
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            Social media
+          </td>
+        </tr>
+        <tr
+          class="MuiTableRow-root css-1q1u3t4-MuiTableRow-root"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignCenter MuiTableCell-sizeMedium table-body-cell position css-1yhpg23-MuiTableCell-root"
+          >
+            5
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell company css-1ex1afd-MuiTableCell-root"
+          >
+            Twitter
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            35.3
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell variation css-1ex1afd-MuiTableCell-root"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-container css-1vam7s3-MuiGrid-root"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium arrow-down-icon css-i4bv87-MuiSvgIcon-root"
+                data-testid="ArrowDropDownIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="m7 10 5 5 5-5z"
+                />
+              </svg>
+              <span>
+                -3.07
+                %
+              </span>
+            </div>
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            28%
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            Social media
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium table-body-cell css-1ex1afd-MuiTableCell-root"
+          >
+            Social media
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;

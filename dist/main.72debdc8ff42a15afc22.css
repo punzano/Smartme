@@ -1,0 +1,115 @@
+.header {
+  background-color: #f0f4fb;
+  padding: 1rem 1rem 0 1rem;
+  width: 100%;
+}
+.header .title .MuiSvgIcon-root {
+  border-radius: 50%;
+  padding: 0.25rem;
+  background-color: #ff3974;
+  color: white;
+  margin-right: 0.5rem;
+}
+.header .title-texts span:nth-child(1) {
+  color: #ff3974;
+}
+.header .title-texts span:nth-child(2) {
+  font-weight: bold;
+}
+.header .title-description {
+  color: #c7c9cd;
+}
+@media screen and (min-width: 48rem) {
+  .header .title-description {
+    display: none;
+  }
+}
+.subheader {
+  background-color: #f0f4fb;
+  padding: 0 1rem 1rem 1rem;
+  width: 100%;
+  font-size: 0.6rem;
+}
+@media screen and (min-width: 48rem) {
+  .subheader {
+    padding: 1rem;
+  }
+}
+.subheader .sector-selector {
+  margin-bottom: 1rem;
+  width: 100%;
+}
+.subheader .sector-selector .select {
+  width: 100%;
+  height: 2rem;
+  background-color: white;
+}
+@media screen and (min-width: 48rem) {
+  .subheader .sector-selector {
+    margin-bottom: 0;
+  }
+}
+.subheader .user-actions .notifications {
+  order: 3;
+  background-color: #0759e6;
+  color: white;
+  font-size: 0.75rem;
+}
+@media screen and (min-width: 48rem) {
+  .subheader .user-actions .notifications {
+    order: initial;
+  }
+}
+.subheader .user-actions .download-wrapper,
+.subheader .user-actions .share-wrapper {
+  width: initial;
+  font-weight: bold;
+}
+.subheader .user-actions .download-icon,
+.subheader .user-actions .share-icon {
+  background-color: white;
+  border-radius: 50%;
+  padding: 0.25rem;
+}
+.ranking .table-head {
+  background-color: #eceef3;
+}
+@media screen and (min-width: 48rem) {
+  .ranking .table-head {
+    background-color: initial;
+  }
+}
+@media screen and (max-width: 48rem) {
+  .ranking .table-body .table-body-cell {
+    font-size: 0.75rem;
+  }
+}
+.ranking .table-body .position {
+  color: red;
+  font-weight: bold;
+}
+.ranking .table-body .company {
+  color: blue;
+}
+.ranking .table-body .arrow-up-icon {
+  color: green;
+}
+.ranking .table-body .arrow-down-icon {
+  color: red;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 16px;
+}
+@media screen and (max-width: 48rem) {
+  body {
+    font-size: 12px;
+  }
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
