@@ -11,6 +11,7 @@ module.exports = {
     },
     entry: './src/index.jsx',
     output: {
+        publicPath: '/',
         path: path.join(__dirname, "../", "dist"),
         filename: "bundle.min.js"
     },
